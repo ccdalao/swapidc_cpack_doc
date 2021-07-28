@@ -10,6 +10,6 @@
 - 持续更新✨
 - 开放api，开放市场✨
 
-[下载共存版](https://blog.ccdalao.cn/archives/192/)
+[安装共存版](IN/INDEX/安装共存版)
 [开始阅读文档](README)
 
