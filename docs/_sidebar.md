@@ -1,6 +1,6 @@
 - 首页
   - [首页](/)
-  - [文档介绍和快速链接](README.md)
+  - [文档介绍](README.md)
   - [关于](IN/INDEX/关于.md)
   - [创意工坊](IN/INDEX/创意工坊.md)
 
