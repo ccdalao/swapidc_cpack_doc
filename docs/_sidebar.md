@@ -1,5 +1,5 @@
 - 首页
-  - [首页](/)
+  - [首页](http://docs.swap.ccdalao.cn/)
   - [文档介绍](README.md)
   - [创意工坊](IN/INDEX/创意工坊.md)
   
