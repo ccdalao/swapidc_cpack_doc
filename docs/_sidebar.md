@@ -6,7 +6,7 @@
   - [Deploy](deploy.md)
   
 - 其他小工具
-  - [JWT](jwt/README.md)
+  - [JWT](IN/INDEX/前言.md)
 
 - [Awesome docsify](awesome.md)
 - [Changelog](changelog.md)
