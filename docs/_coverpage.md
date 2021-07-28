@@ -11,4 +11,4 @@
 - 开放api，开放市场
 
 [下载共存版](https://blog.ccdalao.cn/archives/192/)
-[开始阅读](#docsify)
+[开始阅读文档](#hi_reader)
