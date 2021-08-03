@@ -2,7 +2,7 @@
 
 ![logo](_media/logo.png)
 
-# SWAPIDC 共存版 <small>v0.4.5.2</small>
+# SWAPIDC 共存版 <small>v0.4.5.6</small>
 
 > 一个和云中心共存，但持续前进的分支版本 
 
